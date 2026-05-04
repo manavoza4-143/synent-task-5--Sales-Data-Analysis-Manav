@@ -11,18 +11,34 @@ The goal of this project is to analyze business performance using the Superstore
 ---
 
 ## 🔹 Dataset Details
+Dataset Name: Superstore Sales Dataset
+Source: Public retail dataset commonly used for data analysis and visualization tasks
+File Used: train.csv
+📎 Dataset Link
 
-* **Dataset Name:** Superstore Sales Dataset
-* **File Used:** `train.csv`
-* **Key Columns:**
+You can access the dataset here:
+👉 superstoredataset https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
-  * Order Date
-  * Ship Date
-  * Category
-  * Product Name
-  * Region
-  * Sales
-* **Note:** The dataset does **not include a Profit column**, so profit was estimated as 20% of Sales for analysis purposes.
+📊 Dataset Description
+
+The dataset contains transactional sales data of a retail store, including:
+
+Order and shipping details
+Customer information
+Product categories and names
+Regional sales distribution
+Revenue (Sales) data
+📌 Key Columns:
+Order Date – Date of purchase
+Ship Date – Delivery date
+Category – Product category
+Sub-Category – Sub classification
+Product Name – Name of the product
+Region – Sales region
+Sales – Revenue generated
+⚠️ Note:
+
+The dataset does not include a Profit column, so profit was estimated as 20% of Sales for analysis purposes.
 
 ---
 
