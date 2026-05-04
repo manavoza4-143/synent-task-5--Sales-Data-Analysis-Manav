@@ -150,3 +150,7 @@ Profit values were not available in the dataset and were approximated. Therefore
   * Business insights report
 
 ---
+
+##🔹 Author
+
+Name: MAANAV M OZA
