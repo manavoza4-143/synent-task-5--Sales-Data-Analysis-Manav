@@ -167,6 +167,6 @@ Profit values were not available in the dataset and were approximated. Therefore
 
 ---
 
-##🔹 Author
+🔹 Author
 
 Name: MAANAV M OZA
